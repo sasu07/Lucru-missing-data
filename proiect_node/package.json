@@ -1,0 +1,15 @@
+{
+  "name": "missing_data",
+  "version": "1.0.0",
+  "description": "Missing data from accelerometer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "missing_data"
+  },
+  "author": "Gabriel SASU",
+  "license": "ISC"
+}
